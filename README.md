@@ -40,7 +40,13 @@ If the eyes remain closed beyond a certain threshold, it triggers an **audio ale
 
 ## 🚀 Getting Started  
 
-### 1️⃣ Clone the Repository  
-```bash
+# Step 1: Clone from GitHub
 git clone https://github.com/KaustubhSastry/Driver-drowsiness-detection-system.git
+
+# Step 2: Go into that folder
 cd driver-drowsiness-detection
+
+# Step 3: Now run commands like
+pip install -r requirements.txt
+python main.py
+
