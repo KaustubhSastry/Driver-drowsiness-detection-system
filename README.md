@@ -42,5 +42,5 @@ If the eyes remain closed beyond a certain threshold, it triggers an **audio ale
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/driver-drowsiness-detection.git
+git clone https://github.com/KaustubhSastry/Driver-drowsiness-detection-system.git
 cd driver-drowsiness-detection
