@@ -37,3 +37,10 @@ If the eyes remain closed beyond a certain threshold, it triggers an **audio ale
 5. Trigger an alarm sound to alert the driver.  
 
 ---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/your-username/driver-drowsiness-detection.git
+cd driver-drowsiness-detection
